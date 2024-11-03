@@ -26,4 +26,4 @@ https://ai-api.eu.org/nyankostream
 
 # Download
 
-Download
+[Download](https://github.com/MyStreamID/NyankoStream/releases) | [Website](https://ai-api.eu.org/nyankostream)
